@@ -10,6 +10,7 @@ body > div{
     position: relative;
     margin-right: 1%;
     margin-left: 1%;
+    background-color: #f2f5e1;
 }
 h1{
     text-align: center;
